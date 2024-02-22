@@ -7,7 +7,7 @@ using System.Text;
 namespace Pogram
 {
 
-    class Program
+    class Program2
     {
         static void Main(string[] args)
         {
